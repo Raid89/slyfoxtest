@@ -1,0 +1,105 @@
+{
+    "TITLE_MAIN_TEXT": "Lo Hacemos Por ti",
+    "SUBTITLE_MAIN_TEXT": "Convierte tus ideas en experiencias digitales cautivadoras: donde el diseño y la innovación se encuentran para crear un mundo digital sin límites.",
+    "QUESTIONS": "Preguntas",
+    "ANSWERS": "Respuestas",
+    "ASK_ME": "Soy un ser humano como tú, ¡pregúntame cualquier cosa!",
+    "TRUSTED_CLIENTS": "Clientes de confianza",
+    "TRANSFORM_IDEAS": "Transformamos ideas en experiencias digitales excepcionales.",
+    "CONTACT_US": "¡Contáctanos hoy mismo y descubre cómo podemos llevar tu presencia en línea al siguiente nivel!",
+    "CONTACT": "Contactenos",
+    "ADVISE_YOU": "Te Asesoramos",
+    "ENHANCED_TEAMS": "Equipos excepcionales que hemos potenciado.",
+    "SEE_MORE": "Ver Más",
+    "EXPLORE_MORE": "Explorar mas Detalles",
+    "CREATIVITY": "Creatividad",
+    "WHAT_DO_YOU_GAIN": "Que Ganas Con Nosotros",
+    "REVISION": "Revisión",
+    "STRATEGIES": "Estrategias",
+    "THE_BEST": "Lo mejor",
+    "THE_INCLUDES": "Esto que incluye:",
+    "DESIGN_UX": "Diseño UX/UI",
+    "DESIGN_UX_PARAGRAPH": "Entendemos que cada negocio es único y tiene necesidades digitales específicas.",
+    "DESING_UX_ITEMS": [
+        "Diseño UI de Alta Calidad que Impulsa la Interacción del Usuario",
+        "Enfoque en la Usabilidad y la Facilidad de Navegación",
+        "Integración Perfecta entre Diseño UI y Desarrollo Web",
+        "Personalización y Adaptabilidad para Tu Marca",
+        "Pruebas Rigurosas y Optimización Continua"
+    ],
+    "DESIGN_CONTENT": {
+        "creativity": "Ilimitado",
+        "revision": "1 a 3",
+        "strategies": "Asesoramiento Gratis"
+    },
+    "DEVELOPMENT_ITEMS": [
+        "Desarrollo Werb Avanzado con Tecnologias de Vaguardia",
+        "Experiencia de Usuario Inigualable en Todos los Dispositivos",
+        "Integración de Analíticas y Seguimiento de Datos Avanzado",
+        "Omnicanalidad",
+        "Escalabilidad y Flexibilidad para el Crecimiento Empresarial"
+    ],
+    "DEVELOPMENT_CONTENT": {
+        "creativity": "Ilimitado",
+        "revision": "1 a 3",
+        "strategies": "Asesoramiento Gratis"
+    },
+    "GUARANTEES": "Garantías",
+    "GUARANTEES_PARAGRAPH": "Queremos que te sientas tranquilo con nosotros:",
+    "GUARANTEE_ITEMS": [
+        "Desarrollo a la Medida sin Límites",
+        "Mantenimiento 24/7",
+        "Garantía de Servicios de Diseño y Desarrollo"
+    ],
+    "DEVELOPMENT_WEB": "Desarrollo web",
+    "DEVELOPMENT_WEB_PARAGRAPH": "En SlyFox, no solo ofrecemos desarrollo web, sino una experiencia digital completa que impulsa el éxito de tu negocio. Aquí tienes algunas razones por las que SlyFox es la elección ideal en desarrollo web:",
+    "CUSTOM_DEVELOPMENT": {
+        "TITLE": "Desarrollo a la Medida.",
+        "LEFT_SECTION":{
+            "TITLE": "Casos de Estudio de la Competencia",
+            "PARAGRAPH": "Descubre cómo ayudamos a nuestros clientes a superar a la competencia con estrategias de diseño e desarrollo innovadoras y eficaces. Aprende cómo el diseño UI/UX combinado con un desarrollo a medida y desarrollo móvil y de aplicaciones puede diferenciar tu marca y atraer a tu público objetivo."
+        },
+        "RIGHT_SECTION":{
+            "PARAGRAPH": "Cada estudio de caso ofrece una visión detallada de cómo enfrentamos desafíos similares a los tuyos, las soluciones innovadoras que implementamos y los resultados excepcionales que logramos para nuestros clientes. Al explorar nuestros estudios de caso, no solo te inspirarás con nuestras habilidades y experiencia, sino que también descubrirás cómo podemos ayudarte a alcanzar tus objetivos digitales.",
+            "SUBTITLE_1": "Design Thinking",
+            "SUBTITLE_2": "Optimización"
+        }
+    },
+    "THIS_INCLUDES": "Esto que incluye",
+    "CARDS_DETAILS": [
+        {
+            "title": "Convierta su visión en plataformas que inspiren acción.",
+            "category": "web apps",
+            "items_list": [
+                "Desarrollo de aplicaciones web personalizadas para satisfacer las necesidades únicas de su negocio.",
+                "Optimización de velocidad de carga y fortalecimiento de la seguridad para proteger los datos de sus usuarios.",
+                "Desarrollo de aplicaciones móviles multiplataforma para una experiencia fluida en todos los dispositivos.",
+                "Mantenimiento continuo y soporte técnico para garantizar el rendimiento óptimo de sus aplicaciones."
+            ],
+            "image": "dashboard-asd.png"
+        },
+
+        {
+            "title": "Haz que tus usuarios vuelvan una y otra vez con experiencias móviles impactantes",
+            "category": "Diseño UX/UI",
+            "items_list": [
+                "Diseño de interfaces de usuario intuitivas y atractivas para una experiencia óptima del usuario..",
+                "Experiencia del usuario y el diseño de interfaces intuitivas y atractivas",
+                "Consultoría estratégica para ayudarlo a definir sus objetivos tecnológicos y desarrollar una estrategia efectiva.",
+                "Research ux."
+            ],
+            "image": "dash-pato.png"
+        }
+    ],
+    "SERVICE_ASK": "¿Qué servicios ofrece SlyFox?",
+    "SERVICE_ANSWER": "SlyFox ofrece una amplia gama de servicios digitales que incluyen diseño UI/UX, desarrollo web, desarrollo móvil y de aplicaciones, así como soluciones de software a medida.",
+    "COMPARISION_ASK": "¿Qué nos hace únicos en comparación con otras empresas de diseño y desarrollo?",
+    "COMPARISION_ANSWER": "En SlyFox, nos destacamos por nuestra combinación de diseño UI excepcional y desarrollo web de vanguardia. Nuestro enfoque integrado nos permite ofrecer soluciones digitales completas que no solo son visualmente impresionantes, sino también altamente efectivas en la generación de resultados",
+    "FUNCTION_ASK": "¿Cómo funciona el proceso de trabajo con SlyFox?",
+    "FUNCTION_ANSWER": "Nuestro proceso comienza con una consulta inicial donde discutimos tus necesidades y objetivos. A partir de ahí, nuestro equipo trabaja estrechamente contigo en cada etapa del proyecto, desde la conceptualización y el diseño hasta el desarrollo y la implementación. Nos esforzamos por mantener una comunicación abierta y transparente en todo momento para garantizar que tus expectativas se cumplan.",
+    "GUARANTEE_ASK": "¿Qué tipo de garantías ofrecen en sus servicios?",
+    "GUARANTEE_ANSWER": "En SlyFox, respaldamos la calidad de nuestros servicios con una sólida garantía. Esto incluye garantías de satisfacción en el diseño UI/UX, así como garantías de funcionamiento y rendimiento en el desarrollo web y móvil. Si algo no está a la altura de tus expectativas, nos comprometemos a corregirlo rápidamente y sin costo adicional para ti.",
+    "SUPPORT_ASK": "¿Qué tipo de soporte ofrecen después del lanzamiento del proyecto?",
+    "SUPPORT_ANSWER": "Nuestro compromiso con tu éxito no termina con el lanzamiento del proyecto. SlyFox ofrece servicios de mantenimiento continuo y soporte técnico las 24 horas del día, los 7 días de la semana, para garantizar que tu sitio web o aplicación funcione de manera óptima en todo momento y esté protegido contra cualquier problema técnico que pueda surgir.",
+    "WITH_LOVE": "Lo que nos <span class='text-[#FF7070]'>diferencia</span> es que lo <br> <span class='text-[#FF7070]'>hacemos</span> con <span class='text-[#FF7070]'>amor</span>."
+}

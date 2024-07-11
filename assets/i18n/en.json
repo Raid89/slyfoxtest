@@ -1,0 +1,32 @@
+{
+    "TITLE_MAIN_TEXT": "We Do It For You",
+    "SUBTITLE_MAIN_TEXT": "Turn your ideas into captivating digital experiences: where design and innovation meet to create a limitless digital world.",
+    "TRUSTED_CLIENTS": "Trusted Clients",
+    "TRANSFORM_IDEAS": "We transform ideas into exceptional digital experiences.",
+    "CONTACT_US": "Contact us today and discover how we can take your online presence to the next level!",
+    "ENHANCED_TEAMS": "Enhanced Teams We've Empowered",
+    "CARDS_DETAILS": [
+        {
+            "title": "Turn Your Vision into Action-Inspiring Platforms",
+            "category": "web apps",
+            "items_list": [
+                "Custom web application development to meet the unique needs of your business.",
+                "Speed optimization and security strengthening to protect your users' data.",
+                "Cross-platform mobile app development for a seamless experience across all devices.",
+                "Continuous maintenance and technical support to ensure optimal performance of your applications."
+            ],
+            "image": "assets/images/1"
+        },
+        {
+            "title": "Make Your Users Come Back Again and Again with Impactful Mobile Experiences",
+            "category": "web apps",
+            "items_list": [
+                "Designing intuitive and engaging user interfaces for an optimal user experience.",
+                "User experience and intuitive interface design.",
+                "Strategic consulting to help you define your technology goals and develop an effective strategy.",
+                "UX research."
+            ],
+            "image": "assets/images/1"
+        }
+    ]
+}
