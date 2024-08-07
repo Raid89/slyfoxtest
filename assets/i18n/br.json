@@ -1,0 +1,32 @@
+{
+    "TITLE_MAIN_TEXT": "Nós Fazemos Isso Por Você",
+    "SUBTITLE_MAIN_TEXT": "Transforme suas ideias em experiências digitais cativantes: onde o design e a inovação se encontram para criar um mundo digital ilimitado.",
+    "TRUSTED_CLIENTS": "Clientes de Confiança",
+    "TRANSFORM_IDEAS": "Transformamos ideias em experiências digitais excepcionais.",
+    "CONTACT_US": "Entre em contato hoje mesmo e descubra como podemos levar sua presença online para o próximo nível!",
+    "ENHANCED_TEAMS": "Equipes Excepcionais que Capacitamos",
+    "CARDS_DETAILS": [
+        {
+            "title": "Transforme sua Visão em Plataformas que Inspiram Ação",
+            "category": "web apps",
+            "items_list": [
+                "Desenvolvimento de aplicativos web personalizados para atender às necessidades únicas de seu negócio.",
+                "Otimização de velocidade de carregamento e fortalecimento da segurança para proteger os dados de seus usuários.",
+                "Desenvolvimento de aplicativos móveis multiplataforma para uma experiência fluida em todos os dispositivos.",
+                "Manutenção contínua e suporte técnico para garantir o desempenho ótimo de seus aplicativos."
+            ],
+            "image": "assets/images/1"
+        },
+        {
+            "title": "Faça Seus Usuários Voltarem Novamente e Novamente com Experiências Móveis Impactantes",
+            "category": "web apps",
+            "items_list": [
+                "Design de interfaces de usuário intuitivas e atraentes para uma experiência ótima do usuário.",
+                "Experiência do usuário e design de interface intuitiva e atraente.",
+                "Consultoria estratégica para ajudá-lo a definir seus objetivos tecnológicos e desenvolver uma estratégia eficaz.",
+                "Pesquisa de UX."
+            ],
+            "image": "assets/images/1"
+        }
+    ]
+}

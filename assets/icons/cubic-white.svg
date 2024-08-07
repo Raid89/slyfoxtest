@@ -1,0 +1,21 @@
+<!-- assets/icons/cubic.svg -->
+<svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0_1723_6513)">
+        <g clip-path="url(#clip1_1723_6513)">
+            <mask id="mask0_1723_6513" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="17">
+                <path d="M16 0.078125H0V16.0781H16V0.078125Z" fill="white"/>
+            </mask>
+            <g mask="url(#mask0_1723_6513)">
+                <path d="M5 2.07812H9.73333C11.2268 2.07812 11.9735 2.07812 12.544 2.36877C13.0457 2.62443 13.4537 3.03238 13.7093 3.53415C14 4.10458 14 4.85132 14 6.3448V11.0781M4.13333 14.0781H9.53333C10.2801 14.0781 10.6534 14.0781 10.9387 13.9328C11.1895 13.805 11.3935 13.601 11.5213 13.3501C11.6667 13.0649 11.6667 12.6915 11.6667 11.9448V6.5448C11.6667 5.79806 11.6667 5.42469 11.5213 5.13948C11.3935 4.88859 11.1895 4.68461 10.9387 4.55678C10.6534 4.41145 10.2801 4.41145 9.53333 4.41145H4.13333C3.3866 4.41145 3.01323 4.41145 2.72801 4.55678C2.47713 4.68461 2.27316 4.88859 2.14532 5.13948C2 5.42469 2 5.79806 2 6.5448V11.9448C2 12.6915 2 13.0649 2.14532 13.3501C2.27316 13.601 2.47713 13.805 2.72801 13.9328C3.01323 14.0781 3.3866 14.0781 4.13333 14.0781Z" stroke="white" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <clipPath id="clip0_1723_6513">
+            <rect width="16" height="16" fill="white" transform="translate(0 0.308594)"/>
+        </clipPath>
+        <clipPath id="clip1_1723_6513">
+            <rect width="16" height="16" fill="white" transform="translate(0 0.308594)"/>
+        </clipPath>
+    </defs>
+</svg>
